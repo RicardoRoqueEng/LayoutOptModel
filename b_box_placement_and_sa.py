@@ -528,9 +528,9 @@ from gurobipy import GRB # explicitly import GRB from gurobipy
 
 # Create an environment with WLS license
 params = {
-"WLSACCESSID": '2a70f88e-2ab9-4842-a69f-76e476aadfc7',
-"WLSSECRET": 'afe42e0c-dc70-4454-8e74-3b301761961e',
-"LICENSEID": 2619152,
+"WLSACCESSID": '**********************************',
+"WLSSECRET": '************************************',
+"LICENSEID": *******,
 }
 env = gp.Env(params=params)
 
